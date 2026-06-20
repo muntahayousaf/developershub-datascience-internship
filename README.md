@@ -39,10 +39,10 @@ Throughout this internship, I worked on real-world datasets covering:
 - Pair Plots
 
 ### Key Insights
-- Setosa species clearly separable hai baqi dono species se.
-- Petal length aur petal width strongest features hain classification ke liye.
-- Virginica aur Versicolor thodi overlap show karte hain, is liye model confuse ho sakta hai.
-- Features ke beech strong correlation exist karta hai, especially petal features.
+- The Setosa species is clearly separable from the other two species.
+- Petal length and petal width are the most important features for classification.
+- Virginica and Versicolor show some overlap, which may cause classification difficulty.
+- Strong correlation exists between features, especially petal-based features.
 
 ---
 
@@ -63,10 +63,10 @@ Throughout this internship, I worked on real-world datasets covering:
 - Feature Importance Evaluation
 
 ### Key Insights
-- Low credit history score wale customers zyada default karte hain.
-- Income aur repayment history loan approval ke strong factors hain.
-- Imbalanced data handling se model performance improve hoti hai.
-- Decision Tree model better interpretability provide karta hai.
+- Customers with poor credit history are more likely to default.
+- Income level and repayment history are strong indicators for loan approval.
+- Handling imbalanced data improves model performance significantly.
+- Decision Tree models provide better interpretability for credit decisions.
 
 ---
 
@@ -87,10 +87,10 @@ Throughout this internship, I worked on real-world datasets covering:
 - Geographic Churn Analysis
 
 ### Key Insights
-- Month-to-month contract customers mein churn zyada hota hai.
-- High monthly charges wale customers churn ke liye more likely hote hain.
-- Long-term customers ka churn rate kaafi low hota hai.
-- Fiber optic internet users mein churn comparatively high observed hua.
+- Month-to-month contract customers have a higher churn rate.
+- Customers with higher monthly charges are more likely to churn.
+- Long-term customers show significantly lower churn probability.
+- Fiber optic internet users exhibit higher churn compared to other services.
 
 ---
 
@@ -111,10 +111,10 @@ Throughout this internship, I worked on real-world datasets covering:
 - Feature Correlation Heatmap
 
 ### Key Insights
-- Smokers ka insurance cost significantly higher hota hai.
-- Age aur BMI insurance charges ko strongly affect karte hain.
-- Region ka impact relatively low hota hai.
-- Random Forest complex patterns ko better capture karta hai.
+- Smokers have significantly higher insurance charges than non-smokers.
+- Age and BMI are strong factors influencing insurance costs.
+- Regional differences have relatively low impact on charges.
+- Random Forest captures complex relationships more effectively.
 
 ---
 
@@ -135,10 +135,10 @@ Throughout this internship, I worked on real-world datasets covering:
 - Loan Conversion Prediction
 
 ### Key Insights
-- High income customers loan accept karne ke liye zyada likely hote hain.
-- Credit card holders aur active banking customers zyada responsive hote hain.
-- Previous campaign response strong predictor hai.
-- Education aur financial stability loan acceptance mein important role play karti hai.
+- High-income customers are more likely to accept personal loan offers.
+- Credit card holders and active banking users are more responsive.
+- Previous campaign responses are strong predictors of acceptance.
+- Education level and financial stability play an important role in loan acceptance.
 
 ---
 
