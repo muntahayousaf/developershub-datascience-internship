@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation Using K-Means Clustering
+# 🛍️ Task 7 : Customer Segmentation Using K-Means Clustering
 
 ## 📌 Project Overview
 
