@@ -113,6 +113,3 @@ This project demonstrates that machine learning models (especially XGBoost) outp
 - XGBoost
 
 ---
-
-## 👩‍💻 Author
-Data Analytics / Machine Learning Project
