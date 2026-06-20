@@ -4,7 +4,7 @@ Welcome to my Data Science Internship repository completed under DevelopersHub C
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Muntaha Yousaf**, a Data Science Intern passionate about transforming raw data into meaningful insights through analytics and machine learning.
+Hi, I'm **Muntaha Yousaf**, a Data Science & Analytics Intern passionate about transforming raw data into meaningful insights through analytics and machine learning.
 
 Throughout this internship, I worked on real-world datasets covering:
 
