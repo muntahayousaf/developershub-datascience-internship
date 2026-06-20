@@ -1,4 +1,4 @@
-# 🔋 Household Energy Consumption Forecasting
+# 🔋 Task 8: Household Energy Consumption Forecasting
 
 ## 📌 Project Title
 Time Series Forecasting of Household Electricity Consumption
