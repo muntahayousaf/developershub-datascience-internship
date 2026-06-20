@@ -95,9 +95,3 @@ This project demonstrates a complete machine learning pipeline including:
 Random Forest is the best performing model for this dataset.
 
 ---
-
-## 🚀 Future Improvements
-- Hyperparameter tuning  
-- Handling class imbalance (SMOTE)  
-- Feature engineering  
-- Deployment using Flask or Streamlit
