@@ -38,6 +38,12 @@ Throughout this internship, I worked on real-world datasets covering:
 - Box Plots
 - Pair Plots
 
+### Key Insights
+- Setosa species clearly separable hai baqi dono species se.
+- Petal length aur petal width strongest features hain classification ke liye.
+- Virginica aur Versicolor thodi overlap show karte hain, is liye model confuse ho sakta hai.
+- Features ke beech strong correlation exist karta hai, especially petal features.
+
 ---
 
 ## 💳 Task 2: Credit Risk Prediction
@@ -55,6 +61,12 @@ Throughout this internship, I worked on real-world datasets covering:
 - Credit History Analysis
 - Loan Approval Prediction
 - Feature Importance Evaluation
+
+### Key Insights
+- Low credit history score wale customers zyada default karte hain.
+- Income aur repayment history loan approval ke strong factors hain.
+- Imbalanced data handling se model performance improve hoti hai.
+- Decision Tree model better interpretability provide karta hai.
 
 ---
 
@@ -74,6 +86,12 @@ Throughout this internship, I worked on real-world datasets covering:
 - Feature Importance Ranking
 - Geographic Churn Analysis
 
+### Key Insights
+- Month-to-month contract customers mein churn zyada hota hai.
+- High monthly charges wale customers churn ke liye more likely hote hain.
+- Long-term customers ka churn rate kaafi low hota hai.
+- Fiber optic internet users mein churn comparatively high observed hua.
+
 ---
 
 ## 🏥 Task 4: Predicting Insurance Claim Amounts
@@ -92,6 +110,12 @@ Throughout this internship, I worked on real-world datasets covering:
 - Smoker Risk Analysis
 - Feature Correlation Heatmap
 
+### Key Insights
+- Smokers ka insurance cost significantly higher hota hai.
+- Age aur BMI insurance charges ko strongly affect karte hain.
+- Region ka impact relatively low hota hai.
+- Random Forest complex patterns ko better capture karta hai.
+
 ---
 
 ## 💰 Task 5: Personal Loan Acceptance Prediction
@@ -109,6 +133,12 @@ Throughout this internship, I worked on real-world datasets covering:
 - Marketing Campaign Optimization
 - Customer Acceptance Analysis
 - Loan Conversion Prediction
+
+### Key Insights
+- High income customers loan accept karne ke liye zyada likely hote hain.
+- Credit card holders aur active banking customers zyada responsive hote hain.
+- Previous campaign response strong predictor hai.
+- Education aur financial stability loan acceptance mein important role play karti hai.
 
 ---
 
