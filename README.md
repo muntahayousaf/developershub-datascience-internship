@@ -216,25 +216,6 @@ The original dataset is not included in this repository because it exceeds GitHu
 
 ---
 
-# 📁 Repository Structure
-
-\```text
-DevelopersHub-DataScience-Internship/
-│
-├── Task-1-Iris-Dataset/
-├── Task-2-Credit-Risk-Prediction/
-├── Task-3-Customer-Churn-Prediction/
-├── Task-4-Insurance-Claim-Prediction/
-├── Task-5-Personal-Loan-Acceptance-Prediction/
-├── Task-6-Term-Deposit-Prediction/
-├── Task-7-Customer-Segmentation/
-├── Task-8-Energy-Consumption-Forecasting/
-│
-└── README.md
-\```
-
----
-
 # 🎯 Learning Outcomes
 
 - Cleaning and preparing real-world datasets
